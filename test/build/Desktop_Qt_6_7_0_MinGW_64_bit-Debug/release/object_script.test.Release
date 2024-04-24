@@ -1,0 +1,10 @@
+release/adventure.o
+release/enemy.o
+release/game.o
+release/main.o
+release/widget.o
+release/qrc_res.o
+release/moc_adventure.o
+release/moc_enemy.o
+release/moc_game.o
+release/moc_widget.o
